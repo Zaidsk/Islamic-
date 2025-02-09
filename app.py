@@ -229,10 +229,10 @@ islamic_words = [
     "Kufic-Calligraphy", "Thuluth-Script", "Naskh-Script", "Diwani-Script", "Tughra", "Nasheed",  
     "Zardozi-Embroidery", "Henna-Art", "Islamic-Geometric-Art", "Falconry", "Camel-Racing", "Majlis",  
     "Bazaar", "Carpet-Weaving", "Tilework", "Ceramic-Art", "Mughal-Miniature", "Islamic-Fashion",  
-    "Hijab-Fashion", "Thobe", "Abaya", "Kandura", "Sufi-Music", "Dervish-Dance", "Qasida-Recitation",  
+    "Hijab-Fashion", "Thobe", "Abaya", "Kandura", "Sufi-Music", "Qasida-Recitation",  
     "Sama-Ceremony", "Ikat-Weaving", "Mosaic-Tiling", "Ornamental-Ironwork", "Wood-Carving",  
     "Islamic-Garden", "Waqf-Architecture", "Khanqah-Architecture", "Ramadan-Iftar", "Suhur-Tradition",  
-    "Henna-Night", "Iftar-Gathering", "Islamic-Calligraphic-Poetry", "Oud-Music", "Dabke-Dance",  
+    "Henna-Night", "Iftar-Gathering", "Islamic-Calligraphic-Poetry", "Oud-Music",  
     "Islamic-Tile-Mural", "Frescoes-Of-Islamic-Heritage", "Mamluk-Ornamentation", "Ottoman-Textile"
     
     # Islamic Mystical Experiences And Terms
@@ -442,7 +442,7 @@ islamic_words = [
     "Sufi-Urs", "Islamic-New-Year", "Eid-E-Shab-E-Barat", "Ramadan-Nights", "Shab-E-Barat", "Ramadan-Mela",
     "Iftar-Bazaar", "Eid-Mela", "Eid-Fair", "Ramadan-Festival", "Quran-Recitation-Festival", "Islamic-Music-Festival",
     "Islamic-Art-Festival", "Sufi-Music-Festival", "Eid-Carnival", "Iftar-Celebration", "Ramadan-Cultural-Night",
-    "Islamic-Heritage-Festival", "Eid-Ul-Farooq", "Eid-E-Rukhsati", "Sufi-Dance-Festival", "Ramadan-Poetry-Night",
+    "Islamic-Heritage-Festival", "Eid-Ul-Farooq", "Eid-E-Rukhsati", "Ramadan-Poetry-Night",
     "Islamic-Storytelling-Festival", "Islamic-Heritage-Day", "Iftar-Party", "Ramadan-Lantern-Festival", "Eid-E-Rasool",
     "Ramadan-Night-Market", "Islamic-Crafts-Fair", "Sufi-Whirling-Night", "Ramadan-Cultural-Fair", "Islamic-Film-Festival",
     "Islamic-Theatre-Night", "Ramadan-Art-Exhibition", "Eid-Expo", "Islamic-Cultural-Parade", "Ramadan-Book-Fair",

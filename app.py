@@ -117,8 +117,8 @@ islamic_words = [
     "Waqf", "Jihad", "Dawah", "Ummah", "Khilafah", "Shura", "Bayah", "Fatwa", "Mufti", "Qazi",
 
     # Islami Tareekhi Shakhsiyat (150+)
-    "Imam Abu Hanifa", "Imam Malik", "Imam Shafi", "Imam Ahmad", "Ibn Taymiyyah", "Al-Ghazali",
-    "Ibn Sina", "Al-Farabi", "Al-Khwarizmi", "Ibn Khaldun", "Hazrat-Saladin-Al-Nasir", "Hazrat-Tipu-Sultan-Al-Mujahid", "Hazrat-Akbar-Al-Adil",  
+    "Imam-Abu-Hanifa", "Imam-Malik", "Imam-Shafi", "Imam-Ahmad", "Ibn-Taymiyyah", "Al-Ghazali",
+    "Ibn-Sina", "Al-Farabi", "Al-Khwarizmi", "Ibn-Khaldun", "Hazrat-Saladin-Al-Nasir", "Hazrat-Tipu-Sultan-Al-Mujahid", "Hazrat-Akbar-Al-Adil",  
     "Hazrat-Aurangzeb-Alamgir", "Hazrat-Muhammad-Bin-Qasim-Al-Fateh", "Hazrat-Mahmud-Ghaznavi-Al-Muzaffar",  
     "Hazrat-Al-Biruni-Al-Hakeem", "Hazrat-Ibn-Battuta-Al-Rahhal", "Hazrat-Rumi-Al-Murshid",  
     "Hazrat-Al-Hallaj-Al-Arif", "Hazrat-Rabia-Basri-Al-Zahida", "Hazrat-Nizamuddin-Auliya-Al-Mehboob",  

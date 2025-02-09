@@ -191,10 +191,10 @@ islamic_words = [
     "Minaret-Of-Jam", "Qusayr-Amra", "Ribat-Of-Monastir", "Qal'at-Al-Bahrain", "Citadel-Of-Qaitbay"  
     
     # Islamic Poetic And Literary Terms
-    "Ghazal", "Qasida", "Mathnawi", "Saj'", "Muwashshah", "Zajal", "Rubaiyat", "Naat", "Manqabat", "Marsiya", "Takhmis", "Diwan", "Safar Nama", 
+    "Qasida", "Mathnawi", "Saj'", "Muwashshah", "Zajal", "Rubaiyat", "Naat", "Manqabat", "Marsiya", "Takhmis", "Diwan", "Safar Nama", 
     "Siyar", "Qisas", "Sirat", "Tazkira", "Khamsa", "Rasa'il", "Mukhtasar", "Tarjuma", "Maqama", "Silsila", "Bait", "Misra", "Qafiyah", "Wazn", 
     "Bahr", "Radeef", "Tawil", "Takhmis-E-Qasidah", "Hikam", "Sufi Kalam", "Ishq Nama", "Divan-E-Rumi", "Nazm", "Sukhan", "Mushaira", "Adab", 
-    "Murakkab", "Qissah", "Dastan", "Ruba'i", "Maqsud", "Ishaarat", "Manzum", "Ghazalnama", "Sarguzasht", "Kissa", "Shairana",
+    "Murakkab", "Qissah", "Dastan", "Ruba'i", "Maqsud", "Ishaarat", "Manzum", "Sarguzasht", "Kissa", "Shairana",
 
     # Islamic Historical Regions And Cities
     "Fes", "Marrakesh", "Rabat", "Agadir", "Tunis", "Kairouan", "Sousse", "Tripoli", "Seville", "Toledo", "Fustat", "Hijaz", "Tihamah", 

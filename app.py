@@ -92,7 +92,7 @@ islamic_words = [
     "Hazrat-Khalid-Al-Saifullah", "Hazrat-Amr-Al-Adil", "Hazrat-Abu-Talib-Al-Hami",  
     "Hazrat-Abu-Sufyan-Al-Muhtadi", "Hazrat-Hind-Umm-Muawiya", "Hazrat-Hafsa-Umm-ul-Qura",  
     "Hazrat-Safiyya-Al-Hanif", "Hazrat-Umm-Salama-Al-Muhajira", "Hazrat-Ruqayyah-Al-Batool",  
-    "Hazrat-Umm-Kulthum-Al-Zahida", "Hazrat-Asma-Al-Zaat-un-Nitaqayn"  
+    "Hazrat-Umm-Kulthum-Al-Zahida", "Hazrat-Asma-Al-Zaat-un-Nitaqayn",  
 
     # Islami Jungen Aur Ghazawat (50+)
     "Khandaq", "Khaybar", "Hunain", "Tabuk", "Muta", "Yarmouk", "Qadisiyya", "Siffin",
@@ -125,7 +125,7 @@ islamic_words = [
     "Hazrat-Moinuddin-Chishti-Al-Ghaus", "Hazrat-Baha-Ud-Din-Zakariya-Al-Qutub", "Hazrat-Shah-Waliullah-Al-Mujaddid",  
     "Hazrat-Sir-Syed-Al-Ta'limi", "Hazrat-Iqbal-Al-Shair", "Hazrat-Maulana-Azad-Al-Mutawakkil",       "Hazrat-Hasan-Al-Banna-Al-Murabbi", "Hazrat-Sayyid-Qutb-Al-Shahid", "Hazrat-Malcolm-X-Al-Hajj",  
     "Hazrat-Muhammad-Ali-Al-Qawi", "Hazrat-Zia-Ul-Haq-Al-Amir", "Hazrat-Erdogan-Al-Ra'is",  
-    "Hazrat-Zayed-Al-Muhsin", "Hazrat-Faisal-Al-Muwahhid"
+    "Hazrat-Zayed-Al-Muhsin", "Hazrat-Faisal-Al-Muwahhid",
 
     # Islami Festivals Aur Dates
     "Eid-Ul-Fitr", "Eid-Ul-Adha", "Muharram", "Ashura", "Shab-E-Barat", "Laylatul Qadr",
@@ -188,7 +188,7 @@ islamic_words = [
     "Masjid-Al-Taqwa", "Masjid-Qiblatain", "Hassan-Ii-Mosque", "Koutoubia-Mosque",  
     "Great-Mosque-Of-Kairouan", "Great-Mosque-Of-Sousse", "Qasr-Al-Hayr-Al-Sharqi",  
     "Saladin-Citadel", "Citadel-Of-Aleppo", "Madrasa-Of-Sultan-Hassan", "Medina-Fort",  
-    "Minaret-Of-Jam", "Qusayr-Amra", "Ribat-Of-Monastir", "Qal'at-Al-Bahrain", "Citadel-Of-Qaitbay"  
+    "Minaret-Of-Jam", "Qusayr-Amra", "Ribat-Of-Monastir", "Qal'at-Al-Bahrain", "Citadel-Of-Qaitbay",  
     
     # Islamic Poetic And Literary Terms
     "Qasida", "Mathnawi", "Saj'", "Muwashshah", "Zajal", "Rubaiyat", "Naat", "Manqabat", "Marsiya", "Takhmis", "Diwan", "Safar Nama", 
@@ -222,7 +222,7 @@ islamic_words = [
     "Shahadatayn", "Fidya", "Kaffarah", "Hiba", "Fadl", "Barakah", "Tawassul", "Mizan-Al-Akhlaq", "Sabil",  
     "Sirat-Al-Mustaqim", "Du'a-Al-Hajat", "Du'a-Al-Istikhara", "Du'a-Al-Mashlaha", "Du'a-Al-Shifa",  
     "Du'a-Al-Karim", "Du'a-Al-Tawbah", "Du'a-Al-Jama'ah", "Qiyam-Al-Duha", "Duha", "Istiqama",  
-    "Tawbah-Al-Qalbiya", "Ibadat-Al-Mutlaq", "Du'a-Al-Rizq"  
+    "Tawbah-Al-Qalbiya", "Ibadat-Al-Mutlaq", "Du'a-Al-Rizq",  
     
     # Islamic Cultural Terms
     "Islamic-Calligraphy", "Tazhib", "Zellij", "Arabesque", "Geometric-Pattern", "Muqarnas",  
@@ -233,7 +233,7 @@ islamic_words = [
     "Sama-Ceremony", "Ikat-Weaving", "Mosaic-Tiling", "Ornamental-Ironwork", "Wood-Carving",  
     "Islamic-Garden", "Waqf-Architecture", "Khanqah-Architecture", "Ramadan-Iftar", "Suhur-Tradition",  
     "Henna-Night", "Iftar-Gathering", "Islamic-Calligraphic-Poetry", "Oud-Music",  
-    "Islamic-Tile-Mural", "Frescoes-Of-Islamic-Heritage", "Mamluk-Ornamentation", "Ottoman-Textile"
+    "Islamic-Tile-Mural", "Frescoes-Of-Islamic-Heritage", "Mamluk-Ornamentation", "Ottoman-Textile",
     
     # Islamic Mystical Experiences And Terms
     "Wahdat-Al-Sifat", "Fana-Fi-Allah", "Ishq-E-Rasool", "Qurbani-Al-Ruhani", "Lata'if-E-Sitta",  
@@ -261,7 +261,7 @@ islamic_words = [
     "Pir-Ali-Tirmizi", "Pir-Aslam", "Sayed-Jamaluddin", "Khwaja-Nizamuddin-Hussain",  
     "Pir-Rahimuddin", "Sultan-Rukn-Ud-Din", "Hazrat-Shah-Kamal", "Pir-Abdullah",  
     "Mawlana-Shamsuddin", "Pir-Fazl-E-Haq", "Khwaja-Abdul-Hamid", "Pir-Hamid-Raza",  
-    "Sayed-Rafiuddin", "Pir-Yusuf", "Khwaja-Abdullah-Shah", "Pir-Abdul-Salam"  
+    "Sayed-Rafiuddin", "Pir-Yusuf", "Khwaja-Abdullah-Shah", "Pir-Abdul-Salam",  
     
     # Famous Islamic Literary Works And Manuscripts (50 Items)
     "Al-Muwatta", "Sahih-Al-Bukhari", "Sahih-Muslim", "Al-Muwafaqat", "Ihya-Ulum-Al-Din",
@@ -537,7 +537,7 @@ islamic_words = [
     "Ibn-Al-Haytham-Ka-Andaz", "Al-Kindi-Ka-Logic", "Ibn-Battuta-Ka-Safarnama", "Al-Biruni-Ka-Jeevan", "Al-Zahrawi-Ka-Ilaj",
     "Ibn-Al-Nafis-Ka-Daur", "Al-Khwarizmi-Ka-Hisaab", "Ibn-Sina-Ka-Marz", "Al-Razi-Ke-Experiment", "Al-Farabi-Ke-Raaz",
     "Ibn-Khaldun-Ki-Soch", "Nasir-Tusi-Ka-Ilm", "Ibn-Al-Haytham-Ka-Camera-Obscura", "Al-Kindi-Ka-Raaz", "Ibn-Battuta-Ki-Manzil",
-    "Al-Biruni-Ka-Safar", "Al-Zahrawi-Ka-Ilm", "Ibn-Al-Nafis-Ki-Khoj", "Al-Khwarizmi-Ka-Science", "Ibn-Sina-Ka-Daur"
+    "Al-Biruni-Ka-Safar", "Al-Zahrawi-Ka-Ilm", "Ibn-Al-Nafis-Ki-Khoj", "Al-Khwarizmi-Ka-Science", "Ibn-Sina-Ka-Daur",
 
 
 
@@ -551,7 +551,7 @@ islamic_words = [
     "Hazrat-Ishaq-E-Dil", "Hazrat-Yaqub-E-Raunaq", "Hazrat-Yusuf-E-Husn", "Hazrat-Ayyub-E-Sabr", "Hazrat-Shuayb-E-Dil",
     "Hazrat-Musa-E-Qalb", "Hazrat-Harun-E-Saaz", "Hazrat-Dawud-E-Raaz", "Hazrat-Sulaiman-E-Dil", "Hazrat-Yunus-E-Raah",
     "Hazrat-Ilyas-E-Haqq", "Hazrat-Ayyub-E-Ishq", "Hazrat-Zakariya-E-Noor", "Hazrat-Yahya-E-Hikmat", "Hazrat-Isa-E-Raaz",
-    "Hazrat-Muhammad-E-Sukoon", "Hazrat-Imam-E-Raaz", "Hazrat-Malik-E-Saaz", "Hazrat-Rumi-E-Dilbar", "Hazrat-Sir-Syed-E-Haq"
+    "Hazrat-Muhammad-E-Sukoon", "Hazrat-Imam-E-Raaz", "Hazrat-Malik-E-Saaz", "Hazrat-Rumi-E-Dilbar", "Hazrat-Sir-Syed-E-Haq",
 
 
     # 9. Hinglish Islami Falsafa Aur Aqeeda (50 Items)

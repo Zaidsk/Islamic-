@@ -204,7 +204,7 @@ islamic_words = [
 
     # Modern Islamic Thinkers And Leaders
     "Tariq-Ramadan", "Hamza-Yusuf", "Yasir-Qadhi", "Omar-Suleiman", "Shabir-Ally", "Amina-Wadud",  
-    "Dalia-Mogahed", "Imran-N.-Hosein", "Tariq-Jameel", "Nouman-Ali-Khan", "Zakir-Naik", "Irshad-Manji",  
+    "Dalia-Mogahed", "Imran-N.-Hosein", "Nouman-Ali-Khan", "Zakir-Naik", "Irshad-Manji",  
     "Reza-Aslan", "Ayaan-Hirsi-Ali", "Abdulaziz-Sachedina", "Seyyed-Hossein-Nasr", "Fazlur-Rahman",  
     "Ali-Gomaa", "Ahmed-Deedat", "Bilal-Philips", "Yvonne-Ridley", "Naser-Makarem-Shirazi",  
     "Ali-Al-Qaradaghi", "Mohammed-Arkoun", "Abdul-Hakim-Murad", "Khaled-Abou-El-Fadl", "Zainab-Salbi",  
